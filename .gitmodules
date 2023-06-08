@@ -1,0 +1,3 @@
+[submodule "hand_model"]
+	path = src
+	url = https://github.com/aitacaremote/hand_measure.git
